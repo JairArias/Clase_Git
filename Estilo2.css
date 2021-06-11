@@ -1,11 +1,14 @@
 footerhtml {
 	background-color: #3D834B;
+	padding: 20px;
 }
 
 
 
 footerhtml p{
 	font-size: 10px;
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #C54648;
+	text-align: center;
+	
 }
