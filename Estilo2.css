@@ -1,3 +1,4 @@
+
 h1 {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #373482;
@@ -13,14 +14,20 @@ p{
 footerhtml {
 	background-color: #3D834B;
 	padding: 20px;
-}
-
-
 
 footerhtml p{
 	font-size: 10px;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: #C54648;
 	text-align: center;
+footer p{
+	font-size: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #C54648;
+	text-align: justify-all;
 
+}
+	footer {
+	background-image: url("file:///C:/Users/Ryzen/Pictures/fondo-ring-boxeo-area-deportes-iluminados-pelear-deporte-peligroso_33099-1023.jpg");
+	padding: 2px;
 }
