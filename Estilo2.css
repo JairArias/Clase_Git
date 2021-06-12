@@ -9,5 +9,18 @@ p{
 	font-size: 12px;
 	color: #F0090D;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
-	
+}
+footerhtml {
+	background-color: #3D834B;
+	padding: 20px;
+}
+
+
+
+footerhtml p{
+	font-size: 10px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: #C54648;
+	text-align: center;
+
 }
